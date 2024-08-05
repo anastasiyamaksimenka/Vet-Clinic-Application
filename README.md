@@ -1,7 +1,5 @@
 # Vet Clinic Application
 
-# Vet Clinic Application
-
 Welcome to the Vet Clinic Application project! This project aims to create the best vet clinic application, ensuring pets are healthy and happy. Here’s a quick guide to set up and run the application.
 
 ## Project Overview
